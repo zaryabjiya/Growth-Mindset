@@ -36,4 +36,4 @@ else:
 
 st.write("---")
 st.write("_🥇Success is built on consistent effort and self-reflection. Stay committed to growth!✨_")
-st.write("**© 2025 ⚡ Created by Zaryab Irfan | All Rights Reserved 🌍**")
+st.write("                **© 2025 ⚡ Created by Zaryab Irfan | All Rights Reserved 🌍**")
